@@ -4,20 +4,29 @@
 - [Features](#features)
 - [Dependencies](#dependencies)
 
-## Screenshots
+## 📸 Screenshots
 
-### Home Screen
-![Home Screen](assets/images/Illustration_Forgot_Password_With_Email.png)
+### Splash Screen
+![Splash](assets/images/splashscreen.png)
 
-### Product Details
-![Product Details](assets/images/Illustration_Forgot_Password_With_Email.png)
+---
 
-### Cart Screen
-![Cart Screen](assets/screenshots/cart.png)
+### Onboarding Screens
 
-### Profile Screen
-![Profile Screen](assets/screenshots/profile.png)
+| Onboarding 1 | Onboarding 2 | Onboarding 3 |
+|-------------|-------------|-------------|
+| ![Onboarding 1](assets/images/onboarding1.png) | ![Onboarding 2](assets/screenshots/onboarding2.png) | ![Onboarding 3](assets/screenshots/onboarding3.png) |
 
+---
+
+### Authentication
+
+| Login | Register |
+|------|----------|
+| ![Login](assets/images/Loginscreen.png) | ![Register](assets/images/registerscreen.png) |
+
+### Home Screen 
+![Home](assets/images/homescreen.png)
 
 ## Features
 

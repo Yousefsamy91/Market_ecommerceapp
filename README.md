@@ -7,27 +7,35 @@
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash](assets/images/splashscreen.png)
+<img src="assets/images/splashscreen.png" width="250"/>
 
 ---
 
 ### Onboarding Screens
 
-| Onboarding 1 | Onboarding 2 | Onboarding 3 |
-|-------------|-------------|-------------|
-| ![Onboarding 1](assets/images/onboarding1.png) | ![Onboarding 2](assets/screenshots/onboarding2.png) | ![Onboarding 3](assets/screenshots/onboarding3.png) |
+<table>
+  <tr>
+    <td><img src="assets/images/onboarding1.png" width="200"/></td>
+    <td><img src="assets/screenshots/onboarding2.png" width="200"/></td>
+    <td><img src="assets/screenshots/onboarding3.png" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ### Authentication
 
-| Login | Register |
-|------|----------|
-| ![Login](assets/images/Loginscreen.png) | ![Register](assets/images/registerscreen.png) |
+<table>
+  <tr>
+    <td><img src="assets/images/Loginscreen.png" width="250"/></td>
+    <td><img src="assets/images/registerscreen.png" width="250"/></td>
+  </tr>
+</table>
 
-### Home Screen 
-![Home](assets/images/homescreen.png)
+---
 
+### Home Screen
+<img src="assets/images/homescreen.png" width="250"/>
 ## Features
 
 - **Authentication:** Secure sign-up, login, and user authentication via Firebase.

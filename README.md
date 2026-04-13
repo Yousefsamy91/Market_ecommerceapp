@@ -16,8 +16,8 @@
 <table>
   <tr>
     <td><img src="assets/images/onboarding1.png" width="200"/></td>
-    <td><img src="assets/screenshots/onboarding2.png" width="200"/></td>
-    <td><img src="assets/screenshots/onboarding3.png" width="200"/></td>
+    <td><img src="assets/images/onboarding2.png" width="200"/></td>
+    <td><img src="assets/images/onboarding3.png" width="200"/></td>
   </tr>
 </table>
 
